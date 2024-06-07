@@ -2,6 +2,10 @@
 
 This is a Next.js project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). It includes a dynamic contact form with validation and submission via GraphQL API.
 
+## Live Demo
+
+You can see the live demo by visiting [https://nextjs-wpgraphql-contact-form.vercel.app/](https://nextjs-wpgraphql-contact-form.vercel.app/).
+
 ## Getting Started
 
 ### Prerequisites
@@ -35,6 +39,18 @@ yarn install
 pnpm install
 # or
 bun install
+```
+
+Run your application
+
+```
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
