@@ -10,7 +10,7 @@ You can see the live demo by visiting [https://nextjs-wpgraphql-contact-form.ver
 
 ### Prerequisites
 
-- Node.js (v14.x or later)
+- Node.js (v18.17 or later)
 - npm, yarn, pnpm, or bun package manager
 
 ### Installation
